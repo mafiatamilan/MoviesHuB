@@ -13,10 +13,10 @@
 
 
 <p align="center">
-  <img src="https://github.com/GreyMattersBot/url-auto-delete-shortener-bot/blob/main/assets/IMG_20220105_010453-removebg-preview.png" alt="GreyMatter's Bot Logo">
+  <img src="https://github.com/BOWBOW0609/MoviesHuB/main/assets/screen-0.webp" alt="Movies HuB Logo">
 </p>
 <h1 align="center">
-  <b>GreyMatter's Bot</b>
+  <b>MoviesHuB</b>
 </h1>
 
 
